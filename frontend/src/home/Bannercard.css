@@ -1,0 +1,74 @@
+
+  
+ .banner .swiper {
+    width: 240px;
+    height: 320px;
+  }
+  
+  .banner .swiper-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 18px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #fff;
+  }
+  
+  .banner .swiper-slide:nth-child(1n) {
+    background-image: url(https://i.ebayimg.com/images/g/t0AAAOSw0VljZBbC/s-l1200.webp) ;
+    background-size: cover;
+    background-position: center; /* Centers the background image */
+    background-repeat: no-repeat;
+  }
+  
+  .banner .swiper-slide:nth-child(2n) {
+    background-image: url( https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781440501456/the-guide-to-writing-fantasy-and-science-fiction-9781440501456_hr.jpg);
+    background-size: cover;
+    background-position: center; /* Centers the background image */
+    background-repeat: no-repeat;
+   
+  }
+ 
+  .banner .swiper-slide:nth-child(3n) {
+    background-image: url( https://malwarwickonbooks.com/wp-content/uploads/Invisible_Things.jpg) ;
+    background-size: cover;
+    background-position: center; /* Centers the background image */
+    background-repeat: no-repeat;
+  }
+  
+  .banner .swiper-slide:nth-child(4n) {
+    background-image: url(https://i.kinja-img.com/image/upload/c_fit,q_60,w_645/610f2bfa94641045dbeda372e969cd40.jpg) ;
+    background-size: cover;
+    background-position: center; /* Centers the background image */
+    background-repeat: no-repeat;
+  }
+  
+  .banner .swiper-slide:nth-child(5n) {
+    background-image: url( https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/A1wC3pAqT1L._AC_UF1000,1000_QL80_.jpg) ;
+    background-size: cover;
+    background-position: center; /* Centers the background image */
+    background-repeat: no-repeat;
+  }
+  
+  .banner .swiper-slide:nth-child(6n) {
+    background-image: url( https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/51ecN8NP9rL.jpg) ;
+    background-size: cover;
+    background-position: center; /* Centers the background image */
+    background-repeat: no-repeat;
+  }
+  
+  .banner .swiper-slide:nth-child(7n) {
+    background-image: url( https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71uTbAOpdZL._AC_UF1000,1000_QL80_.jpg) ;
+    background-size: cover;
+    background-position: center; /* Centers the background image */
+    background-repeat: no-repeat;
+  }
+  
+  .banner .swiper-slide:nth-child(8n) {
+    background-image: url( https://i.pinimg.com/564x/40/c0/49/40c049bb4d6318e45e9f777ad40e6e32.jpg) ;
+    background-size: cover;
+    background-position: center; /* Centers the background image */
+    background-repeat: no-repeat;
+  }
+ 
